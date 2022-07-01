@@ -8,7 +8,6 @@ __My main interests in tech :__
 - FullStack Development ➜ I ❤ being challenged by programming problems
 - User Interface Design ➜ I ❤ to create and imagine visual stuff
  
-<sub>Currently working on `lootapi⚡` *(private project)* made with AdonisJS framework</sub>
 </p>
 <p style="text-align: right">
   
