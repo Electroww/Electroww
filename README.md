@@ -2,7 +2,7 @@
 
 ## My very short bio 🌿
 <p>
-I'm Elec, I'm a Computer Science Master and Human Computer Interaction (HCI) Student and I like spending my time to develop & create new stuff, discover new technologies.
+I'm Elec, I'm a Software Engineer at smappen and I like spending my time to develop & create new stuff, discover new technologies.
 
 __My main interests in tech :__
 - FullStack Development ➜ I ❤ being challenged by programming problems
