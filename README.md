@@ -31,6 +31,8 @@ __My main interests in tech :__
 </p>
 
 ## Interests
+![](https://img.shields.io/badge/🎮_Esport-555555?style=flat-square&logoColor=white) <be>
+<img height="70" src="https://static.mensup.fr/22/2022/06/photo_article/759984/298427/1200-L-en-22-0-t1-est-toujours-invaincu-en-lck.jpg">
 
 ![](https://img.shields.io/badge/🎮_Favorite_Games-555555?style=flat-square&logoColor=white) <br>
 <img height="70" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2mjs.png">
