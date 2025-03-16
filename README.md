@@ -27,7 +27,6 @@ __My main interests in tech :__
 ![](https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=flat-square&logo=amd&logoColor=white)
 ![](https://img.shields.io/badge/NVIDIA-RTX_2070_SUPER-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-<sup>Gaming Ready 🎮</sup>
 </p>
 
 ## Interests
