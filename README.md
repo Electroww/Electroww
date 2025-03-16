@@ -45,6 +45,7 @@ __My main interests in tech :__
 <img height="70" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co49wj.png">
 <img height="70" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1rst.png">
 <img height="70" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co1yc6.png">
+<igm height="70" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co8ae0.webp">
 
 ![](https://img.shields.io/badge/❤_Anime-555555?style=flat-square&logoColor=white)  <br>
 <img height="70" src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21519-XIr3PeczUjjF.png">
