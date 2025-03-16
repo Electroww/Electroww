@@ -55,4 +55,4 @@ __My main interests in tech :__
 <img height="70" src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21202-TfzXuWQf2oLQ.png">
 <img height="70" src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5114-4CpuT7iWcZ37.png">
 <img height="70" src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97986-fzJBML9qecb4.jpg">
-
+<img height="70" src="https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-NuHM32a3VJsb.png">
